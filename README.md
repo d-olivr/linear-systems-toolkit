@@ -22,8 +22,8 @@ Implementação de um conjunto de algoritmos numéricos para resolver sistemas l
 Tudo gira em torno da classe `SistemaLinear`, que recebe a matriz `A`, o vetor `b` e os auxiliares `c` (vetor) e `P` (matriz) uma única vez, e expõe um método para cada item do enunciado. O código foi pensado assim para que os dados não precisem ser passados repetidamente entre chamadas
 
 Disponível em duas versões equivalentes:
-- **`scripts/questao1_sistemas_lineares.py`** 
-- **`notebooks/questao1_sistemas_lineares.ipynb`**
+- **`scripts/sistemas_lineares.py`** 
+- **`notebooks/sistemas_lineares.ipynb`**
 
 O código foi desenvolvido inicialmente como um script Python no VSCode, para trabalhar no ambiente de desenvolvimento padrão e ter espaço para testar e estudar o que foi necessário ao longo do projeto. Só depois desse script estar completo, testado e entendido, traduzi o conteúdo no notebook, para atender ao formato .ipynb solicitado pelo professor.
 
@@ -85,7 +85,7 @@ linear-systems-toolkit/
 └── README.md
 ```
 
-> Os arquivos em `dados_exemplo/` são gerados por `scripts/gerar_dados_exemplo.py` e servem como exemplo de entrada válida — todos sem cabeçalho, conforme o formato esperado.
+> Os arquivos em `dados_exemplo/` são gerados por `scripts/gerar_dados_exemplo.py` e servem como exemplo de entrada válida
 
 ---
 
