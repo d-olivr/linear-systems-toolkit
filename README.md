@@ -143,6 +143,6 @@ Para rodar com seus próprios dados em vez dos arquivos de exemplo, use a funç�
 
 Conforme exigido no enunciado da prova, o uso de LLM (Claude, da Anthropic) está declarado diretamente na primeira célula do notebook, detalhando especificamente em que pontos a IA foi usada (sugestão de estruturação do código em classe, revisão de corretude matemática das fórmulas, escrita dos testes e da documentação). O raciocínio matemático foi compreendido e validado manualmente antes da entrega.
 
-Também utilizei LLM para gerar este README! Mandei um README que gostei bastante de outro projeto meu, e pedi que fosse adaptado para esse projeto do Sudoku. Com revisão manual posteriormente, claro. :)
+Também utilizei LLM para gerar este README! Mandei um README que gostei bastante de outro projeto meu, e pedi que fosse adaptado para esse projeto. Com revisão manual posteriormente, claro. :)
 
 
